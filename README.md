@@ -23,8 +23,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akutnino&layout=compact&theme=dark&hide_border=true)
-
 <!--
 **akutnino/akutnino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
