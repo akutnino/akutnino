@@ -20,6 +20,9 @@
 ![REACTROUTER](https://img.shields.io/badge/REACT_ROUTER-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff&logoSize=auto&color=%23CA4245)
 ![REDUX](https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=fff&logoSize=auto&color=%23764ABC)
 ![AXIOS](https://img.shields.io/badge/AXIOS-5A29E4?style=for-the-badge&logo=axios&logoColor=fff&logoSize=auto&color=%235A29E4)
+![JEST](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=fff&logoSize=auto&color=%23C21325)
+![VITEST](https://img.shields.io/badge/VITEST-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff&logoSize=auto&color=%236E9F18)
+![VITE](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=fff&logoSize=auto&color=%23646CFF)
 
 ---
 
