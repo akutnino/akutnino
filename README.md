@@ -2,9 +2,9 @@
 
 ## A Passionate ReactJS Web Developer👋
 
-- 🔭 I’m planning to become a **Full-Stack Developer ReactJS Web Developer**
+- 🔭 I’m planning to become a **Full-Stack ReactJS Web Developer**
 - 🌱 I’m currently learning **Test-Driven Development (TDD)**
-- 🤔 I'm interested in everything **Microservices**
+- 🤔 I'm interested in everything related to **Microservices**
 - ⚙️ I use daily: `.html`, `.css`, `.jsx`, `.tsx`, `.scss`, `.svg`
 - 📫 How to reach me: **[Gmail](mailto:akutnino@gmail.com),
   [LinkedIn](https://www.linkedin.com/in/ghazi-khan/), [Facebook](https://www.facebook.com/akutnino/)**
