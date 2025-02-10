@@ -22,6 +22,7 @@
 ![AXIOS](https://img.shields.io/badge/AXIOS-5A29E4?style=for-the-badge&logo=axios&logoColor=fff&logoSize=auto&color=%235A29E4)
 ![JEST](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=fff&logoSize=auto&color=%23C21325)
 ![VITEST](https://img.shields.io/badge/VITEST-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff&logoSize=auto&color=%236E9F18)
+![TESTINGLIBRARY](https://img.shields.io/badge/TESTING_LIBRARY-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff&logoSize=auto&color=E33332)
 ![VITE](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=fff&logoSize=auto&color=%23646CFF)
 
 ---
